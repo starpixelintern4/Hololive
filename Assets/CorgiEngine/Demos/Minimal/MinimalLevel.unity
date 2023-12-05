@@ -734,7 +734,7 @@ MonoBehaviour:
   CameraMode: 2
   CurrentRoom: {fileID: 2027302939}
   TargetRoom: {fileID: 775583200}
-  TriggerFade: 1
+  TriggerFade: 0
   FaderID: 0
   FadeTween:
     MMTweenDefinitionType: 0
@@ -1168,7 +1168,7 @@ MonoBehaviour:
   CameraMode: 2
   CurrentRoom: {fileID: 775583200}
   TargetRoom: {fileID: 2027302939}
-  TriggerFade: 1
+  TriggerFade: 0
   FaderID: 0
   FadeTween:
     MMTweenDefinitionType: 0
@@ -3943,11 +3943,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 2.0703125
-      objectReference: {fileID: 0}
-    - target: {fileID: 8040196612442320895, guid: 67e9e6648638ca94eaaa9e41373f42f2,
-        type: 3}
-      propertyPath: m_DefaultBlend.m_Style
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8940356102819974359, guid: 67e9e6648638ca94eaaa9e41373f42f2,
         type: 3}
